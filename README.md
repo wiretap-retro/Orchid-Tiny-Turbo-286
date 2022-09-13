@@ -8,3 +8,6 @@ Do not build. This is unconfirmed, and the PAL chip dumps aren't available yet. 
 \
 \
 Built per the schematics from Tube Time's github found here: https://github.com/schlae/tiny-turbo-286
+\
+\
+If you can work on PAL dumps for this, please help out to make this project a functional design. Thanks!
