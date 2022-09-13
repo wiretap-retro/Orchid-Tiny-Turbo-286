@@ -1,0 +1,28 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,0.1?,SamacSys_Parts:C320C104J3G5TA,~
+C3 C2 ,2,33uF 10V Tant,Capacitor_THT:CP_Radial_Tantal_D6.0mm_P5.00mm,~
+C4 C6 C8 C10 C12 C14 C16 C18 C5 C7 C9 C11 C13 C15 C17 C19 ,16,0.1uF,SamacSys_Parts:C320C104J3G5TA,~
+J1 ,1,8088_Max_Mode,Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical,http://datasheets.chipdb.org/Intel/x86/808x/datashts/8088/231456-006.pdf
+J2 ,1,Bus_ISA_8bit,SamacSys_Parts:BUS_XT,https://en.wikipedia.org/wiki/Industry_Standard_Architecture
+R1 ,1,910,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,~
+RP2 RP3 RP1 ,3,4.7K,Resistor_THT:R_Array_SIP10,http://www.vishay.com/docs/31509/csc.pdf
+SW1 ,1,TURBO,SamacSys_Parts:A201MD9AQ04,
+SW2 ,1,SW_DIP_x04,SamacSys_Parts:DIP810W60P254L1209H480Q8N,~
+UA2 ,1,80286_PLCC,Package_LCC:PLCC-68_THT-Socket,
+UA5 UA6 UB5 UB6 UB7 UB8 ,6,IMS1423,Package_DIP:DIP-20_W7.62mm_Socket,
+UA8 UA7 UD7 UD4 ,4,74ALS373,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS373
+UA9 ,1,74LS541,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS541
+UB1 ,1,SAB82284,Package_DIP:DIP-18_W7.62mm_Socket,
+UB2 ,1,80287,Package_DIP:DIP-40_W15.24mm_Socket,
+UB4 ,1,74LS245,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS245
+UB9 UC7 UC8 UD9 ,4,74ALS541,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS541
+UC1 ,1,74AS804,Package_DIP:DIP-20_W7.62mm_Socket,
+UC4 ,1,74LS646,Package_DIP:DIP-24_W7.62mm_Socket,
+UC5 UD8 ,2,PAL16L8,Package_DIP:DIP-20_W7.62mm_Socket,
+UC9 ,1,74F521,Package_DIP:DIP-20_W7.62mm_Socket,http://www.ti.com/lit/gpn/sn74LS688
+UD1 ,1,PAL20R6,Package_DIP:DIP-24_W7.62mm_Socket,
+UD3 ,1,PAL16R8,Package_DIP:DIP-20_W7.62mm_Socket,
+UD5 UD2 ,2,PAL20R4,Package_DIP:DIP-24_W7.62mm_Socket,
+W1 ,1,Jumper,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+W2 ,1,8MHZ,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
+W3 ,1,5MHZ,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,~
