@@ -1,0 +1,53 @@
+PAL dumps are from user "tomatolicious" on the Retro Dreams and Techy Things Discord: https://discord.gg/VrhKdcQf
+
+The dumps were generated using this tool: https://store.backbit.io/product/chip-tester/
+
+-----------
+UD1.bin
+-----------
+PAL20R6 / 8-10 inputs / 6-8 outputs
+Inputs: 2 3 4 5 6 7 8 9 10 11 14 23 15
+Outputs: x 16 17 18 19 20 21 22
+
+-----------
+UD2.bin
+-----------
+PAL20R6 / 8-10 inputs / 6-8 outputs
+Inputs: 2 3 4 5 6 7 8 9 10 11 14 23
+Outputs: 15 16 17 18 19 20 21 22
+
+-----------
+UD3.bin
+-----------
+PAL16R8 / 8 inputs / 8 outputs
+
+-----------
+UC5.bin
+-----------
+PAL16L8 / 9-15 inputs / 2-8 outputs
+Inputs: 1 2 3 4 5 6 7 8 9 11 13
+Outputs: 12 x 14 15 16 17 18 19
+
+-----------
+UD5.bin
+-----------
+PAL20R4 / 8-12 inputs / 4-8 outputs
+Inputs: 2 3 4 5 6 7 8 9 10 11 14 23
+Outputs: 15 16 17 18 19 20 21 22
+
+-----------
+UD8.bin
+-----------
+PAL16L8 / 9-15 inputs / 2-8 outputs
+Inputs: 1 2 3 4 5 6 7 8 9 11 14 16 17 18
+Outputs: 12 13 x 15 x x x 19
+
+----------------------------------------------
+
+GAL16V8  /  GAL20V8  /  GAL22V10 
+Capable  of  saving  logic  equations  to  file.
+●        PAL  16L8  /  16R4  /  16R6  /  16R8
+Capable  of  saving  logic  equations  to  file,  and  interpreting  I/O  pins  as  either  input  or  output. 
+Saves  data  to  file,  with  lowest  input  pin  #  being  the  least  significant  address,  and  each  output  pin 
+representing  a  data  bit,  with  lowest  pin  #  being  the  least  significant  data  bit.  Outputs  configured 
+as  inputs  will  ride  high.
